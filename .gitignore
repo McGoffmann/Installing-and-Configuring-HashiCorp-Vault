@@ -37,3 +37,5 @@ override.tf.json
 *.crt
 *.ca
 *.pub
+*.srl
+*.csr
